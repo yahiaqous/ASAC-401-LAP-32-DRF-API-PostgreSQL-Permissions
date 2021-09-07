@@ -33,4 +33,4 @@ Let's move our site closer to production grade by adding Permissions and Postgre
 
 &nbsp;
 
-**PR Link**: <https://github.com/YAHIAQOUS/drf-api-permissions-postgres/pull/1>
+**PR Link**: <https://github.com/YAHIAQOUS/drf-api-permissions-postgres/pull/2>
